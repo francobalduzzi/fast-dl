@@ -1,0 +1,14 @@
+// overview description file for fy_new_pool_day2.bsp
+
+global 
+{
+	ZOOM	3.84
+	ORIGIN	-80 	528	-337
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_new_pool_day2.bmp"
+	HEIGHT	-337
+}
