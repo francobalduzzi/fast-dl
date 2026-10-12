@@ -1,0 +1,9 @@
+maps/gg_winterplace.bsp
+maps/gg_winterplace.res
+maps/gg_winterplace.txt
+gfx/env/css_officeup.tga
+gfx/env/css_officedn.tga
+gfx/env/css_officelf.tga
+gfx/env/css_officert.tga
+gfx/env/css_officeft.tga
+gfx/env/css_officebk.tga
